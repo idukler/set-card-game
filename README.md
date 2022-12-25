@@ -1,4 +1,4 @@
-# SetBuilder
+# set-card-game
 #### Set is a real time card game that  consists of a deck of 81 unique 
 #### cards that vary in four features across three possibilities for each 
 #### kind of feature: number of shapes, shape, shading, and color. 
